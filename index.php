@@ -4,24 +4,11 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta http-equiv="origin-trial" data-feature="EME Extension - Policy Check" data-expires="2018-11-26" content="Aob+++752GiUzm1RNSIkM9TINnQDxTlxz02v8hFJK/uGO2hmXnJqH8c/ZpI05b2nLsHDhGO3Ce2zXJUFQmO7jA4AAAB1eyJvcmlnaW4iOiJodHRwczovL25ldGZsaXguY29tOjQ0MyIsImZlYXR1cmUiOiJFbmNyeXB0ZWRNZWRpYUhkY3BQb2xpY3lDaGVjayIsImV4cGlyeSI6MTU0MzI0MzQyNCwiaXNTdWJkb21haW4iOnRydWV9">
+	<meta http-equiv="origin-trial" data-feature="EME Extension - Policy Check" data-expires="2018-11-26">
 	<title>Netflix Ecuador: Ve series online, ve películas online</title>
-	<link rel="preload" href="https://assets.nflxext.com/web/ffe/wp/signup/nmhp/nmhpFrameworkClient.js.397997775f354f09ba78.js" as="script">
-	<link type="text/css" rel="stylesheet" href="/personalization/cl2/freeform/WebsiteDetect?source=wwwhead&amp;fetchType=css&amp;modalView=nmLanding" data-uia="botLink">
-	<script type="text/javascript">
-		(function() {
-			var request = new XMLHttpRequest();
-			request.open('GET', '/personalization/cl2/freeform/WebsiteDetect?source=wwwhead&fetchType=js&modalView=nmLanding', true);
-			request.send();
-			var request2 = new XMLHttpRequest();
-			request2.open('GET', '/personalization/cl2/freeform/WebsiteScreen?source=wwwhead&fetchType=js' + '&winw=' + window.outerWidth + '&winh=' + window.outerHeight + '&screenw=' + window.innerWidth + '&screenh=' + window.innerHeight + '&ratio=' + (window.devicePixelRatio ? window.devicePixelRatio : 'unsupported'), true);
-			request2.send();
-		})();
-	</script>
-	<script type="text/javascript" charset="UTF-8" src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" data-domain-script="87b6a5c0-0104-4e96-a291-092c11350111"></script>
-	<script type="text/javascript">
-		function OptanonWrapper() {};
-	</script>
+	<!--link rel="preload" href="https://assets.nflxext.com/web/ffe/wp/signup/nmhp/nmhpFrameworkClient.js.397997775f354f09ba78.js" as="script"-->
+	
+
 	<meta content="ver películas, películas en línea, películas online, ver TV, TV en línea, TV online, ver programas, programas en línea, programas online, programas de TV, series en línea, series online, programas en línea, programas online, programas de TV, ver series, películas en streaming, TV en streaming, streaming inmediato, streaming al instante, ver en línea, ver online, películas, ver películas en Ecuador, ver TV en línea, ver TV online, sin descargas, películas completas" name="keywords">
 	<meta content="Disfruta películas y series en internet o en tu smart TV, consola de videojuegos, PC, Mac, dispositivo móvil, tablet y más." name="description">
 	<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0">
@@ -40,18 +27,7 @@
 		netflix.notification = window.netflix.notification = window.netflix.notification || {};
 		window.netflix.notification.specification = netflix.notification.specification || {};;
 	</script>
-	<script src="https://cdn.cookielaw.org/scripttemplates/202301.1.0/otBannerSdk.js" async="" type="text/javascript"></script>
-	<script>
-		window.netflix = window.netflix || {};
-		netflix.notification.constants = {
-			"pageName": "nmLanding",
-			"locale": "es-EC",
-			"sessionLength": 30,
-			"uiMode": "nonmember",
-			"ownerToken": null,
-			"accept-language": "es-419,es;q=0.9"
-		};
-	</script>
+	
 	<script>
 		window.netflix = window.netflix || {};
 		netflix.notification.specification.uiView = {
@@ -16097,7 +16073,7 @@
 		<script src="https://assets.nflxext.com/web/ffe/wp/signup/nmhp/nmhpFrameworkClient.js.397997775f354f09ba78.js"></script>
 	</div>
 	<script>
-		if ('serviceWorker' in navigator && navigator.serviceWorker.getRegistrations) {
+		/*if ('serviceWorker' in navigator && navigator.serviceWorker.getRegistrations) {
 			navigator.serviceWorker.getRegistrations().then(function(registrations) {
 				if (registrations) {
 					registrations.forEach(function(registration) {
@@ -16105,7 +16081,7 @@
 					});
 				}
 			}).catch(function() {});
-		}
+		}*/
 	</script>
 	<div id="onetrust-consent-sdk">
 		<div class="onetrust-pc-dark-filter ot-hide ot-fade-in"></div>

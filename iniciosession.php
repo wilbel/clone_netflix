@@ -5576,7 +5576,7 @@
 
                                 // Función de validación al enviar el formulario
                                 function validarFormulario(event) {
-                                    alert("hola mudno");
+                                   
                                     var emailField = document.getElementById('id_userLoginId');
                                     var passwordField = document.getElementById('id_password');
 
@@ -5584,7 +5584,7 @@
                                     // Verificar si los campos están vacíos
                                     if (emailField.value === '' || passwordField.value === '') {
                                         // Mostrar un mensaje de error
-                                        alert('Por favor, complete todos los campos.');
+                                       
                                         // Detener el envío del formulario
                                         event.preventDefault();
                                     }
